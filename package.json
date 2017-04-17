@@ -1,0 +1,19 @@
+{
+  "name": "sound-store-data-sync-spike",
+  "version": "0.0.0",
+  "description": "[Gapi API Reference](https://developers.google.com/api-client-library/javascript/) [Drive API Reference](https://developers.google.com/drive/v3/reference/)",
+  "main": "index.js",
+  "scripts": {
+    "serve": "screen -d -m http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonsmithers/sound-store-data-sync-spike.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jonsmithers/sound-store-data-sync-spike/issues"
+  },
+  "homepage": "https://github.com/jonsmithers/sound-store-data-sync-spike#readme"
+}
