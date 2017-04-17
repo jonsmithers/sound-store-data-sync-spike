@@ -4,7 +4,7 @@
   "description": "[Gapi API Reference](https://developers.google.com/api-client-library/javascript/) [Drive API Reference](https://developers.google.com/drive/v3/reference/)",
   "main": "index.js",
   "scripts": {
-    "serve": "screen -d -m http-server -o"
+    "serve": "screen -d -m http-server -a localhost -p 8000 -o"
   },
   "repository": {
     "type": "git",
